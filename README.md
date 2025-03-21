@@ -40,7 +40,7 @@
         <p>PostgreSQL</p>
       </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" width="40" height="40" alt="AWS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" width="40" alt="AWS" />
         <p>AWS</p>
       </td>
     </tr>
