@@ -17,29 +17,42 @@
 
 ## 🚀 Tech Stack  
 
-### **Frontend:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>  
-
-### **Backend:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-</p>  
-
-### **Databases & Cloud:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</p>  
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://react.dev/" title="React">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" style="border-radius: 50%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+        </a>
+        <br>React.js
+      </td>
+      <td align="center">
+        <a href="https://nextjs.org/" title="Next.js">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60" height="60" style="border-radius: 50%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+        </a>
+        <br>Next.js
+      </td>
+      <td align="center">
+        <a href="https://nodejs.org/" title="Node.js">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" style="border-radius: 50%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+        </a>
+        <br>Node.js
+      </td>
+      <td align="center">
+        <a href="https://www.postgresql.org/" title="PostgreSQL">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60" style="border-radius: 50%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+        </a>
+        <br>PostgreSQL
+      </td>
+      <td align="center">
+        <a href="https://aws.amazon.com/" title="AWS">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" style="border-radius: 50%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+        </a>
+        <br>AWS
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -75,8 +88,4 @@
 📩 **Email:** shikhardwivedi2019@gmail.com  
 🌍 **Portfolio:** [shikhar.info](https://shikhar.info)  
 
-Let’s build something amazing together! 🚀  
-
----
-
-This **animated and interactive README** will make your GitHub profile stand out. Let me know if you want to add any extra features, such as **GIFs, visitor counters, or custom widgets**! 🔥😃
+Let's build something amazing together! 🚀  
