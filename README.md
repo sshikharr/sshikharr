@@ -17,7 +17,7 @@
 ## 🛠 Technology Stack  
 
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
